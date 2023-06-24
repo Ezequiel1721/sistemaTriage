@@ -1,3 +1,4 @@
+![](imagen/triage.jpg)
 # sistemaTriage
 
 - Lea el archivo Manual Técnico.pdf para conocer más sobre sobre las herramientas utilizadas y algunas secciones del proyecto.
